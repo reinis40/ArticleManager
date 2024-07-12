@@ -1,0 +1,44 @@
+
+[2024-07-12T04:57:15.538014+02:00] app.INFO: New article created {"title":"Article","content":"Content","timestamp":"2024-07-12 04:57:15"} {"uid":"03e8f78"}
+[2024-07-12T04:57:18.052108+02:00] app.INFO: Article deleted {"id":"1","timestamp":"2024-07-12 04:57:18"} {"uid":"d0d80e5"}
+[2024-07-12T05:01:00.625277+02:00] app.INFO: New comment added {"article_id":"8","name":"2","comment":"2","timestamp":"2024-07-12 05:01:00"} {"uid":"0af63e9"}
+[2024-07-12T05:01:02.583235+02:00] app.INFO: New comment added {"article_id":"8","name":"3","comment":"3","timestamp":"2024-07-12 05:01:02"} {"uid":"6d47d33"}
+[2024-07-12T05:01:04.231537+02:00] app.INFO: Like added {"target_id":"8","target_type":"article","timestamp":"2024-07-12 05:01:04"} {"uid":"fba95e9"}
+[2024-07-12T05:01:04.555987+02:00] app.INFO: Like added {"target_id":"8","target_type":"article","timestamp":"2024-07-12 05:01:04"} {"uid":"bb9ec6c"}
+[2024-07-12T05:01:05.367807+02:00] app.INFO: Like added {"target_id":"15","target_type":"comment","timestamp":"2024-07-12 05:01:05"} {"uid":"5cb4516"}
+[2024-07-12T05:01:05.478335+02:00] app.INFO: Like added {"target_id":"15","target_type":"comment","timestamp":"2024-07-12 05:01:05"} {"uid":"cc03dc4"}
+[2024-07-12T05:01:05.973954+02:00] app.INFO: Like added {"target_id":"15","target_type":"comment","timestamp":"2024-07-12 05:01:05"} {"uid":"62bf695"}
+[2024-07-12T05:01:06.026025+02:00] app.INFO: Like added {"target_id":"15","target_type":"comment","timestamp":"2024-07-12 05:01:06"} {"uid":"169bd30"}
+[2024-07-12T05:01:06.091987+02:00] app.INFO: Like added {"target_id":"15","target_type":"comment","timestamp":"2024-07-12 05:01:06"} {"uid":"d14ce6d"}
+[2024-07-12T05:01:06.601661+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:06"} {"uid":"16ef4ec"}
+[2024-07-12T05:01:06.680159+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:06"} {"uid":"5eacff9"}
+[2024-07-12T05:01:06.739388+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:06"} {"uid":"ec193e6"}
+[2024-07-12T05:01:06.967191+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:06"} {"uid":"973b484"}
+[2024-07-12T05:01:07.091477+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"541fb03"}
+[2024-07-12T05:01:07.140740+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"5de1d31"}
+[2024-07-12T05:01:07.173766+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"b2c7435"}
+[2024-07-12T05:01:07.207484+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"1e348ad"}
+[2024-07-12T05:01:07.247301+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"cc4dfa6"}
+[2024-07-12T05:01:07.286530+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"00a8db9"}
+[2024-07-12T05:01:07.535175+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"edfde0f"}
+[2024-07-12T05:01:07.591069+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"6b984f1"}
+[2024-07-12T05:01:07.637771+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"3272b68"}
+[2024-07-12T05:01:07.934261+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"d045fa5"}
+[2024-07-12T05:01:07.968587+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:07"} {"uid":"a5f6312"}
+[2024-07-12T05:01:08.002731+02:00] app.INFO: Like added {"target_id":"16","target_type":"comment","timestamp":"2024-07-12 05:01:08"} {"uid":"3da1077"}
+[2024-07-12T05:01:10.549145+02:00] app.INFO: New comment added {"article_id":"8","name":"543","comment":"5345","timestamp":"2024-07-12 05:01:10"} {"uid":"35156db"}
+[2024-07-12T05:01:20.591739+02:00] app.INFO: Article and comments and likes deleted {"id":"8","timestamp":"2024-07-12 05:01:20"} {"uid":"37a7c13"}
+[2024-07-12T05:02:01.793051+02:00] app.INFO: New article created {"title":"Article","content":"Article1","timestamp":"2024-07-12 05:02:01"} {"uid":"bc1d980"}
+[2024-07-12T05:02:15.541846+02:00] app.INFO: New comment added {"article_id":"9","name":"name ","comment":"comment","timestamp":"2024-07-12 05:02:15"} {"uid":"e837d03"}
+[2024-07-12T05:02:30.722458+02:00] app.INFO: Like added {"target_id":"18","target_type":"comment","timestamp":"2024-07-12 05:02:30"} {"uid":"138f0e3"}
+[2024-07-12T05:02:47.148454+02:00] app.INFO: Like added {"target_id":"9","target_type":"article","timestamp":"2024-07-12 05:02:47"} {"uid":"83923fe"}
+[2024-07-12T05:03:04.955760+02:00] app.INFO: Like added {"target_id":"9","target_type":"article","timestamp":"2024-07-12 05:03:04"} {"uid":"ec66f75"}
+[2024-07-12T05:10:20.016965+02:00] app.INFO: Article and comments and likes deleted {"id":"9","timestamp":"2024-07-12 05:10:20"} {"uid":"e75b342"}
+[2024-07-12T05:11:27.280211+02:00] app.ERROR: Failed to create article {"title":"1","error":"SQLSTATE[HY000]: General error: 1 table articles has no column named likes_count"} {"uid":"5a54b58"}
+[2024-07-12T05:12:55.543996+02:00] app.ERROR: Failed to create article {"title":"1","error":"SQLSTATE[HY000]: General error: 1 table articles has no column named likes_count"} {"uid":"7fa3188"}
+[2024-07-12T05:17:13.374929+02:00] app.INFO: New article created {"title":"1","content":"1","timestamp":"2024-07-12 05:17:13"} {"uid":"68134a1"}
+[2024-07-12T05:17:16.196255+02:00] app.INFO: Like added {"target_id":"10","target_type":"article","timestamp":"2024-07-12 05:17:16"} {"uid":"c61bfb4"}
+[2024-07-12T05:17:27.975570+02:00] app.INFO: Like added {"target_id":"10","target_type":"article","timestamp":"2024-07-12 05:17:27"} {"uid":"f58cf36"}
+[2024-07-12T05:22:52.190445+02:00] app.INFO: New comment added {"article_id":"10","name":"sdf","comment":"sdf","timestamp":"2024-07-12 05:22:52"} {"uid":"3f2e805"}
+[2024-07-12T05:22:54.346351+02:00] app.INFO: Like added {"target_id":"19","target_type":"comment","timestamp":"2024-07-12 05:22:54"} {"uid":"de1d342"}
+[2024-07-12T05:22:57.206571+02:00] app.INFO: Like added {"target_id":"19","target_type":"comment","timestamp":"2024-07-12 05:22:57"} {"uid":"fc363e0"}
